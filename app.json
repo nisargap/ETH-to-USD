@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "sdkVersion": "20.0.0",
+    "icon": "./res/mipmap-hdpi/ic_launcher.png",
+    "version": "1.0.0",
+    "slug": "eth-to-usd",
+    "androidStatusBar": {
+      "barStyle": "dark-content"
+    },
+    "loading": {
+      "icon": "./res/mipmap-mhdpi/ic_launcher.png"
+    },
+    "android": {
+      "package": "com.nisarga.ethereumpricechecker"
+    }
+  }
+}
